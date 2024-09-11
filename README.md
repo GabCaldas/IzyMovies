@@ -10,9 +10,8 @@ Este aplicativo, desenvolvido em React Native, permite aos usuários:
 
 ### Tecnologias Utilizadas
 * **React Native:** Framework para desenvolvimento de aplicativos mobile multiplataforma.
-* **[Nome da API de filmes utilizada]**: API utilizada para buscar informações sobre filmes (ex: TMDB, OMDB).
-* **[Outras tecnologias]**: Redux, Navigation, Axios, etc.
-
+* **TMDB**: API utilizada para buscar informações sobre filmes 
+* **[Outras tecnologias]**: Taillwind para css
 
 ### Estrutura do Projeto
 components: Contém componentes reutilizáveis como Card de Filme, Tela de Detalhes, Barra de Pesquisa, etc.
